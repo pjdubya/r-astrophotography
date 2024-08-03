@@ -1,17 +1,4 @@
 # Sidebar
-##### [Join us on Lemmy!](https://lemmy.world/c/astrophotography) | New? Don't forget to read the [rules](https://www.reddit.com/r/astrophotography/comments/14exxbm/fuck_yeah_new_community_rules/)! | [User equipment thread 2022](https://www.reddit.com/r/astrophotography/comments/zbmt97/post_your_rig_thread_dec_2022/) | [Project Patchwork](https://www.darkflats.com/Patchwork/index.html) | [Public Data thread](http://www.reddit.com/r/astrophotography/comments/2urd0p/rastrophotography_public_data_donation_drive/). Subscribe to our Partnered-Subreddit /r/AskAstrophotography!
-
-[Wiki/FAQ](https://wiki.astrophotography.io/index.php/Main_Page)
-
-[What Telescope?](https://wiki.astrophotography.io/index.php/What_Telescope)
-
-[Glossary](https://wiki.astrophotography.io/index.php/Glossary)
-
-[Discord Chat](https://discord.gg/astrophotography)
-
-
-
-
 
 ### Filter Posts
 

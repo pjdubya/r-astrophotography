@@ -1,18 +1,15 @@
 # Important Information
-We recommend users view this subreddit through old reddit as several functions rely on the CSS stylesheet.  You should disable the new redesign in your [user preferences.](https://new.reddit.com/settings)
+Please find answers to common questions at the locations below.
 
 ## Buttons
-### Discord Chat
-https://discord.gg/ndK3pup
-
 ### Wiki/FAQ
-https://www.reddit.com/r/astrophotography/wiki/index
+https://r-astrophotography.gitbook.io/r-astrophotography-wiki/
 
 ### What Telescope?
-https://www.reddit.com/r/astrophotography/wiki/what_telescope
+https://r-astrophotography.gitbook.io/r-astrophotography-wiki/what_telescope
 
 ### Glossary
-https://www.reddit.com/r/astrophotography/wiki/glossary
+https://r-astrophotography.gitbook.io/r-astrophotography-wiki/glossary
 
 ### The Rules Explained
-https://www.reddit.com/r/astrophotography/wiki/the_rules_explained
+https://r-astrophotography.gitbook.io/r-astrophotography-wiki/posting-guidelines-and-rules-explanation

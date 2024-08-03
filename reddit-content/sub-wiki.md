@@ -1,5 +1,5 @@
 
-[Most of our wiki has been moved off-site for more reliable hosting. Please click here to view it.](https://wiki.astrophotography.io/)
+[Our wiki has moved off-site for more reliable hosting. Please click here to view it.](https://r-astrophotography.gitbook.io/r-astrophotography-wiki/)
 
 
 ---
@@ -94,5 +94,3 @@ Archives of the Weekly Ask Anything Thread and Object Of The Month Contests are 
 |2023 Jun|Rho Oph|/u/absorbingphotons|5|https://redd.it/13xfz1n|https://redd.it/13yq0o1
 |2023 Jul|IC 4685|/u/StylishUsername|2|https://redd.it/14p2hr6|https://redd.it/155bov5
 |2023 Aug|Eagle Nebula|/u/KeplerInOrbit|20|https://redd.it/15f1n4p|https://redd.it/15nzy2h
-
-**A recurring imaging contest will continue in some form on [our Lemmy community](https://lemmy.world/c/astrophotography).**

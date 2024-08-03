@@ -2,15 +2,7 @@
 
 # Community description
 
-/r/astrophotography went private for a period of 10 days in protest of reddit's proposed API changes, and unprofessional response to the community's concerns regarding 3rd party apps, mod tools, and accessibility options that have been impacted by this decision. 
-
-Despite [community vote](https://imgur.com/a/3aKZE0o), we reopened with a new set of guidelines as chosen and approved by the community.
-
-https://lemmy.world/c/astrophotography
-
-https://discord.gg/astrophotography
-
-*Fuck Steve Huffman*
+/r/astrophotography celebrates amateur astrophotography and will primarily focus on sharing and discussing the work of our members. We encourage sharing original content of real astronomical objects as a means of showcasing that work with those who enjoy astrophotography, inspiring those who are new to astrophotography, and requesting and providing constructive feedback on the work. 
 
 # Old Reddit settings
 
