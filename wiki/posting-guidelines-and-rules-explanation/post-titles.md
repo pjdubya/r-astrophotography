@@ -44,7 +44,7 @@ Exposure time: e.g "16 Hours" etc.
 
 Date: "Taken on 10/4/18" etc.
 
-Location: "Rocky Mountain National Park" Reposting a newly processed image: Already required, please check out Rule 6.
+Location: "Rocky Mountain National Park"
 
 #### Information discouraged from titles
 
